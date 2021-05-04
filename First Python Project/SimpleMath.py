@@ -1,1 +1,2 @@
-print(20 * 24 * 60)
+#Simple Math Calculation using Python.
+print (20 * 24 * 60)
