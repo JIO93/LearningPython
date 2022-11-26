@@ -8,3 +8,4 @@ print(3.5)
 
 #Integer Data Type
 print(3)
+
